@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmmoraes1999&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmmoraes1999" /> </p>
 
 <div>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielmmoraes1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="gabrielmmoraes1999" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielmmoraes1999&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="gabrielmmoraes1999" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielmmoraes1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielmmoraes1999&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
